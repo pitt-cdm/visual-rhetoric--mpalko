@@ -1,4 +1,4 @@
-Lottery Tickt
+Lottery Ticket
 Author: J. Money
 URL: https://www.flickr.com/photos/jmoneyyyyyy/6045818149
 Copyright: Flickr 2011
